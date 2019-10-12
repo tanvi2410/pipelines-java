@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/tanvijain1024/Pipeline%20Project/_apis/build/status/tanvi2410.pipelines-java%20(1)?branchName=master)](https://dev.azure.com/tanvijain1024/Pipeline%20Project/_build/latest?definitionId=4&branchName=master)
 
 # Contributing
 
